@@ -13,6 +13,7 @@ The PT.sh file comprises the codebase of the project. Activate the project by ex
 Project Explanation (PDF):
 
 Delve into the project's intricacies with the detailed explanation provided in the PDF file. Gain a comprehensive understanding of the project's objectives, methodologies, and results.
+
 Requirements: Ensure the following tools are installed on your Linux system:
 
 Nmap: Install from Kali Linux.
